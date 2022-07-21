@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aidan 
 
-  <img align-"right" alt-"aidan-portfolio" src-"https://github.com/aidanmatchette/assets/Aidan-Matchette.png?raw-true" width-"500" />
+  <img align-"right" alt-"aidan-portfolio" src-"(https://github.com/aidanmatchette/aidanmatchette/blob/main/assets/Aidan-Matchette.png)" width-"500" />
 
 ### Fullstack Software Engineer
 
