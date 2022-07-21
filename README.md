@@ -2,7 +2,7 @@
 
   <img align-"right" alt-"aidan-portfolio" src-"(https://github.com/aidanmatchette/aidanmatchette/blob/main/assets/Aidan-Matchette.png)" width-"500" />
 
-![Aidan-portfolio](https://github.com/aidanmatchette/aidanmatchette/blob/main/Aidan-Matchette.png?raw=true)
+![Aidan-portfolio](https://github.com/aidanmatchette/aidanmatchette/blob/main/assets/Aidan-Matchette.png?raw=true)
 ### Fullstack Software Engineer
 
 
