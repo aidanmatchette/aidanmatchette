@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aidan Matchette</h1>
 <h3 align="center">A Marine Corps Veteran turned Fullstack Engineer</h3>
 
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on [CryptoMagic](https://cryptomagic.aidanmatchette.com/)
 
