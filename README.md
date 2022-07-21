@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aidan Matchette</h1>
-<h3 align="center">A passionate fullstack engineer</h3>
+<h3 align="center">A Marine Corps Veteran turned Fullstack Engineer</h3>
 
 - 🔭 I’m currently working on [CryptoMagic](https://cryptomagic.aidanmatchette.com/)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aidanmatchette.com/](https://aidanmatchette.com/)
 
-- ⚡ Fun fact [I am a 5 year Marine Corps Veteran 🇺🇸](I am a 5 year Marine Corps Veteran 🇺🇸)
+- ⚡ Fun fact I am a 5 year Marine Corps Veteran 🇺🇸
 
 - 💬 Ask me about **my experiences and projects**
 
