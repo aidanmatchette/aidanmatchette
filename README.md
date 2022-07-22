@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/aidanmatchette/aidanmatchette/blob/main/assets/Matchette.png)](https://aidanmatchette.com)
 <h1 align="center">Hi 👋, I'm Aidan Matchette</h1>
-<h2 align="center">A Marine Corps Veteran turned Fullstack Engineer</h2>
+<h2 align="center">A Marine Corps Veteran turned Fullstack Software Engineer</h2>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
