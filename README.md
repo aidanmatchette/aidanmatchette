@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aidan Matchette</h1>
 <h2 align="center">A Marine Corps Veteran turned Fullstack Software Engineer</h2>
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
      <img alt="linkedin" title="Connect with Me on LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="mailto:aidanmatchette@gmail.com">
@@ -17,11 +17,6 @@
 
 > Hi! I'm Aidan Matchette. I am a 5 year United States Marine Corps Veteran. While on active duty, I was able to get hands on with some neat technologies. This sparked my interest in the tech field. After some research, I found I wanted to pursue Software Engineering. Since my journey in tech began, I have completed Code Platoon's Full Stack Coding Bootcamp, numerous projects, and learned a life long skill. I want to continue to learning and improving on my skills every day!
 
-### Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/aidanmatchette/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aidanmatchette/" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools 🔧
 
@@ -51,16 +46,3 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmatchette&theme=city_lights&layout=compact&card_width=200)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔭 I’m currently working on [CryptoMagic](https://cryptomagic.aidanmatchette.com/)
-
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 🤝 I’m looking for help with **Docker**
-
-- 👨‍💻 All of my projects are available at [aidanmatchette.com](https://aidanmatchette.com/)
-
-- ⚡ Fun fact I am a 5 year Marine Corps Veteran 🇺🇸
-
-- 💬 Ask me about **my experiences and projects**
-
-- 📫 How to reach me **aidan.j.matchette@gmail.com**
