@@ -18,10 +18,12 @@
 > Hi! I'm Aidan Matchette. I am a 5 year United States Marine Corps Veteran. While on active duty, I was able to get hands on with some neat technologies. This sparked my interest in the tech field. After some research, I found I wanted to pursue Software Engineering. Since my journey in tech began, I have completed Code Platoon's Full Stack Coding Bootcamp, numerous projects, and learned a life long skill. I want to continue to learning and improving on my skills every day!
 
 
-### Projects 💻
+### Recent Projects 💻
 
 [Portfolio](https://aidanmatchette.com/)
+
 [CryptoMagic](https://crypto.aidanmatchette.com/)
+
 [CPCentral](https://www.youtube.com/watch?v=dU39A7oSW9g)
 
 ### Languages and Tools 🔧
