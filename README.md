@@ -33,7 +33,7 @@
 
 #
 
-![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=dark&show_icons=true)
+![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=city_lights&show_icons=true&hide=prs,issues&card_width=200)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidanmatchette&" alt="aidanmatchette" /></p>
 
