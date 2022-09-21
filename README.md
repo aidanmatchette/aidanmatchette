@@ -33,10 +33,15 @@
 <br />
 
 #
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=city_lights&show_icons=true&hide=prs,issues&card_width=200" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=city_lights&show_icons=true&hide=prs,issues&card_width=200" />
+</a>
+<!-- ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=city_lights&show_icons=true&hide=prs,issues&card_width=200) -->
 
-![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=city_lights&show_icons=true&hide=prs,issues&card_width=200)
-
-<p align="right" width="400">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmatchette&theme=city_lights&layout=compact&card_width=200)](https://github.com/anuraghazra/github-readme-stats)</p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmatchette&theme=city_lights&layout=compact&card_width=200)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 🔭 I’m currently working on [CryptoMagic](https://cryptomagic.aidanmatchette.com/)
 
