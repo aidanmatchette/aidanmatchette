@@ -8,6 +8,7 @@
 > Hi! I'm Aidan Matchette. I am a 5 year United States Marine Corps Veteran. While on active duty, I was able to get hands on with some neat technologies. This sparked my interest in the tech field. After some research, I found I wanted to pursue Software Engineering. Since my journey in tech began, I have completed Code Platoon's Full Stack Coding Bootcamp, numerous projects, and learned a life long skill. I want to continue to learning and improving on my skills every day!
 
 ### Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/aidanmatchette/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aidanmatchette/" height="30" width="40" /></a>
 </p>
@@ -34,8 +35,7 @@
 #
 
 ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=city_lights&show_icons=true&hide=prs,issues&card_width=200)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidanmatchette&" alt="aidanmatchette" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmatchette)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [CryptoMagic](https://cryptomagic.aidanmatchette.com/)
 
