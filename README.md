@@ -35,7 +35,8 @@
 #
 
 ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=city_lights&show_icons=true&hide=prs,issues&card_width=200)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmatchette&theme=city_lights&layout=compact&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="right" width="400">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmatchette&theme=city_lights&layout=compact&card_width=200)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 - 🔭 I’m currently working on [CryptoMagic](https://cryptomagic.aidanmatchette.com/)
 
