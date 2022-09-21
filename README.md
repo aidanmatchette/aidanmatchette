@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/aidanmatchette/aidanmatchette/blob/main/assets/Matchette.png)](https://aidanmatchette.com)
 
 <h1 align="center">Hi 👋, I'm Aidan Matchette</h1>
-<h2 align="center">A Marine Corps Veteran turned Fullstack Software Engineer</h2>
+<h2 align="center">Marine Corps Veteran turned Fullstack Software Engineer</h2>
 <p align="center">
   <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
      <img alt="linkedin" title="Connect with Me on LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
