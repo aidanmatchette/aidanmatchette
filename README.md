@@ -2,6 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Aidan Matchette</h1>
 <h2 align="center">A Marine Corps Veteran turned Fullstack Software Engineer</h2>
+<p align="left">
+  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+     <img alt="linkedin" title="Connect with Me on LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="mailto:aidanmatchette@gmail.com">
+     <img alt="Email" title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://github.com/aidanmatchette?tab=followers">
+     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
