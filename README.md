@@ -4,19 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on [CryptoMagic](https://cryptomagic.aidanmatchette.com/)
-
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 🤝 I’m looking for help with **Docker**
-
-- 👨‍💻 All of my projects are available at [aidanmatchette.com](https://aidanmatchette.com/)
-
-- ⚡ Fun fact I am a 5 year Marine Corps Veteran 🇺🇸
-
-- 💬 Ask me about **my experiences and projects**
-
-- 📫 How to reach me **aidan.j.matchette@gmail.com**
+Hi! I'm Aidan Matchette. I am a 5 year United States Marine Corps Veteran. While on active duty, I was able to get hands on with some neat technologies. This sparked my interest in the tech field. After some research, I found I wanted to pursue Software Engineering. Since my journey in tech began, I have completed Code Platoon's Full Stack Coding Bootcamp, numerous projects, and learned a life long skill. I want to continue to learning and improving on my skills every day!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +18,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanmatchette&show_icons=true&locale=en" alt="aidanmatchette" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidanmatchette&" alt="aidanmatchette" /></p>
+
+- 🔭 I’m currently working on [CryptoMagic](https://cryptomagic.aidanmatchette.com/)
+
+- 👯 I’m looking to collaborate on **open source projects**
+
+- 🤝 I’m looking for help with **Docker**
+
+- 👨‍💻 All of my projects are available at [aidanmatchette.com](https://aidanmatchette.com/)
+
+- ⚡ Fun fact I am a 5 year Marine Corps Veteran 🇺🇸
+
+- 💬 Ask me about **my experiences and projects**
+
+- 📫 How to reach me **aidan.j.matchette@gmail.com**
