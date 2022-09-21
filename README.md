@@ -7,12 +7,12 @@
 
 > Hi! I'm Aidan Matchette. I am a 5 year United States Marine Corps Veteran. While on active duty, I was able to get hands on with some neat technologies. This sparked my interest in the tech field. After some research, I found I wanted to pursue Software Engineering. Since my journey in tech began, I have completed Code Platoon's Full Stack Coding Bootcamp, numerous projects, and learned a life long skill. I want to continue to learning and improving on my skills every day!
 
-### Connect with me:
+### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/aidanmatchette/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aidanmatchette/" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools
+### Languages and Tools 🔧
 
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -33,7 +33,7 @@
 
 #
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanmatchette&show_icons=true&locale=en" alt="aidanmatchette" /></p>
+![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=dark&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidanmatchette&" alt="aidanmatchette" /></p>
 
