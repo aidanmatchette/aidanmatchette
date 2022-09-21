@@ -17,6 +17,7 @@
 
 > Hi! I'm Aidan Matchette. I am a 5 year United States Marine Corps Veteran. While on active duty, I was able to get hands on with some neat technologies. This sparked my interest in the tech field. After some research, I found I wanted to pursue Software Engineering. Since my journey in tech began, I have completed Code Platoon's Full Stack Coding Bootcamp, numerous projects, and learned a life long skill. I want to continue to learning and improving on my skills every day!
 
+---
 
 ### Languages and Tools 🔧
 
@@ -37,6 +38,7 @@
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br />
 
+---
 #
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -45,4 +47,3 @@
 <!-- ![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanmatchette&theme=city_lights&show_icons=true&hide=prs,issues&card_width=200) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmatchette&theme=city_lights&layout=compact&card_width=200)](https://github.com/anuraghazra/github-readme-stats) -->
-
